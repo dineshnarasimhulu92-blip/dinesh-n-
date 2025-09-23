@@ -1,4 +1,4 @@
-# dinesh-n-
+git # dinesh-n-
 this is my first repository 
 <br>
-author-dinesh
+author-dinesh (din)
